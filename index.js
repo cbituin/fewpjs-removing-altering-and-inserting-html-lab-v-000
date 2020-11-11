@@ -2,6 +2,5 @@
 main.remove();
 
 let newHeader = document.createElement('h1');
-newHeader.className = "victory";
-
+newHeader.setAttribute('id', 'victory');
 document.body.appendChild(element);
