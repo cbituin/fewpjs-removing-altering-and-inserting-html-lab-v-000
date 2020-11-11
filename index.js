@@ -1,4 +1,6 @@
 // Write your code here!
 main.remove();
 
-const newHeader = document.body.appendChild('h1');
+document.body.appendChild('h1');
+
+const newHeader = document.createElement('h1#victory');
